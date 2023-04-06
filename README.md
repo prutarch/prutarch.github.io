@@ -7,7 +7,7 @@ My personal GitHub site
 `python3 -m venv venv`
 
 ## Install requirements
-`python3 -m pip install requirements.txt`
+`python3 -m pip install -r requirements.txt`
 
 ## Run jupyter notebook command
 `jupyter notebook`
